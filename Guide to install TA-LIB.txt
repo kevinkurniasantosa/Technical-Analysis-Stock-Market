@@ -1,0 +1,13 @@
+TA-LIB is a technical analysis library in Python. It is a bit tricky though to install this library since we cannot use normal
+way to install this package. 
+
+Steps to install TA-LIB:
+1. In order to install this library, go to this website first:
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib
+2. Search for the 'TA-LIB' library
+3. Now to choose which package you should install, you need to check your computer first whether it is x32 or x64 platform. 
+As well as the python version you are using.
+4. Based on both windows platform and python version you are using, choose the correct one for the package.
+For example, if your windows platform is x64 and yout python version is 36 then simply pick 'TA_Lib-0.4.18-cp36-cp36m-win_amd64.whl'.
+Note: win_amd64 for x64 platform, cp36 for Python 3.6 
+5. Lastly use 'cd' to the directory your wheel file was downloaded and 'pip install {the name of the wheel file you install before}'
