@@ -7,6 +7,7 @@ RSI: Used as momentum indicator to indicate whether the stock is overbought or o
 MACD: Used as oscillator indicator to identify trend, reversal/changes in direction and momentum. It can also trigger buy and sell signal.
 
 Example result:
+
 <img src="charts/AAPL_technical_indicators.png">
 
 Future work:
