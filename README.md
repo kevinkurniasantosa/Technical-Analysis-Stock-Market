@@ -13,3 +13,5 @@ Example result:
 Future work:
 
 A good starting point to create simplistic chart for technical analysis in Python. A further idea is to develop some kind of notification system. For example, using the chart, I can make a potential buy or sell notification everytime these technical indicators trigger some events such as moving average crossover or overbought and oversold condition. Then the alert system will be build as an automated system, and so anytime a bug or sell signal happen, the user will be notified.
+
+© 2020 Kevin Kurnia Santosa. All rights reserved.
