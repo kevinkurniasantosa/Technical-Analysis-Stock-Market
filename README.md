@@ -4,7 +4,7 @@ Python v3.6.8
 Perform a technical analysis on stock market data using several technical indicators such as Moving Averages, Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD). 
 Moving averages: Used as lagged indicator for buy and sell signal, trend bias and can act as support and resistance levels.
 RSI: Used as momentum indicator to indicate whether the stock is overbought or oversold within the time period.
-MACD: Used as oscillator indicator to identify trend, reversal/changes in direction and momentum. It can also trigger buy and sell signal.
+MACD: Used as oscillator indicator to identify trend, reversal/changes in direction and momentum, can also trigger buy and sell signal.
 
 Example result:
 
